@@ -153,14 +153,6 @@ Si tienes problemas con permisos:
 chmod -R 755 Andean_AgroTech_Web
 ```
 
-## 👥 Equipo
-
-- Univ. Cumara Patty Gabriel Omar
-- Univ. Rios Acuña Ivan Rodrigo
-- Univ. Ramos Colque Diego Edil
-- Univ. Velasquez Laura Franz Líder
-- Univ. Villca Tapia Joseline Erika
-
 ## 📚 Recursos
 
 - [Documentación PHP](https://www.php.net/docs.php)
